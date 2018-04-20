@@ -9,3 +9,6 @@
 6、添加备注    git commit -m "备注信息"
 7、查看状态    git status 查看文件状态
 8、查看文件修改内容   git diff
+9、查看修改历史日志  git log
+10、查看修改全部历史日志  git reflog
+11、回退git reset --hard 版本号   git reset --hard HEAD^ 上一个版本号   git reset --hard HEAD^ 上上一个版本号   往上100个版本号  git reset --hard HEAD~100
