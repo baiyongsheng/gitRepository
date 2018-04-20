@@ -8,7 +8,7 @@ public class Father{
 
 	}
 	
-	public void Method1(){
+	public void Method0(){
 	System.out.println("ni hao method1");
 	}
 	
