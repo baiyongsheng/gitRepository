@@ -7,4 +7,9 @@ public class Father{
 
 
 	}
+	
+	public void Method1(){
+	System.out.println("ni hao method1");
+	}
+	
 }

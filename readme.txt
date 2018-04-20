@@ -8,3 +8,4 @@
 5、添加文件	   git add  file
 6、添加备注    git commit -m "备注信息"
 7、查看状态
+8、添加新文件
